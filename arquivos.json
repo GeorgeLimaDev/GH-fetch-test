@@ -1,0 +1,239 @@
+[
+    {
+        "Nome": "Avaliação Inicial do Sistema no Incidente de Segurança Cibernética",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Avaliação_Inicial_do_Sistema_no_Incidente_de_Segurança_Cibernética.md"
+    },
+    {
+        "Nome": "Detalhes de Contato para Resposta a Incidentes de Segurança Cibernética",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Detalhes_de_Contato_para_Resposta_a_Incidentes_de_Segurança%20Cibernética.md"
+    },
+    {
+        "Nome": "Diretrizes de Antivírus",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Diretrizes_de_Antivírus.md"
+    },
+    {
+        "Nome": "Diretrizes para Construção de Senhas",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Diretrizes_para_Construção_de_Senhas.md"
+    },
+    {
+        "Nome": "Formulário de Cadeia de Custódia",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Formulário_de_Cadeia_de_Custódia.md"
+    },
+    {
+        "Nome": "Formulário de Tratamento de Incidentes de Propriedade Intelectual",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Formulário_de_Tratamento_de_Incidentes_de_Propriedade_Intelectual.md"
+    },
+    {
+        "Nome": "Identificação do Incidente de Propriedade Intelectual",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Identificação_do_Incidente_de_Propriedade_Intelectual.md"
+    },
+    {
+        "Nome": "Lista de Contatos para Incidentes de Propriedade Intelectual",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Lista_de_Contatos_para_Incidentes_de_Propriedade_Intelectual.md"
+    },
+    {
+        "Nome": "Lista de Verificação do Formulário de Incidente de Segurança Cibernética",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Lista_de_Verificação_do_Formulário_de_Incidente_de_Segurança_Cibernética.md"
+    },
+    {
+        "Nome": "Lista de Verificação do Formulário de Incidentes de Propriedade Intelectual",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Lista_de_Verificação_do_Formulário_de_Incidentes_de_Propriedade_Intelectual.md"
+    },
+    {
+        "Nome": "Padrão de Comunicação Sem Fio",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Padrão_de_Comunicação_Sem_Fio.md"
+    },
+    {
+        "Nome": "Padrão de Registro de Informações",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Padrão_de_Registro_de_Informações.md"
+    },
+    {
+        "Nome": "Política de Segurança de Linhas Analógicas/ISDN",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política%20_de_Segurança_de_Linhas_Analógicas_ISDN.md"
+    },
+    {
+        "Nome": "Política de Aceitação de Assinatura Digital",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Aceitação_de_Assinatura_Digital.md"
+    },
+    {
+        "Nome": "Política de Acesso Discado",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Acesso_Discado.md"
+    },
+    {
+        "Nome": "Política de Acesso Remoto",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Acesso_Remoto.md"
+    },
+    {
+        "Nome": "Política de Antivírus do Laboratório",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Antivírus_do_Laboratório.md"
+    },
+    {
+        "Nome": "Política de Armazenamento e Computação Móvel para Acesso Remoto",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Armazenamento_e_Computação_Móvel_para_Acesso_Remoto.md"
+    },
+    {
+        "Nome": "Política de Auditoria de Servidores",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Auditoria_de%20Servidores.md"
+    },
+    {
+        "Nome": "Política de Avaliação de Aquisições e Fusões",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Avaliação_de_Aquisições_e_Fusões.md"
+    },
+    {
+        "Nome": "Política de Avaliação de Riscos",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Avaliação_de_Riscos.md"
+    },
+    {
+        "Nome": "Política de Comunicação Sem Fio",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Comunicação_Sem_Fio.md"
+    },
+    {
+        "Nome": "Política de Conscientização sobre Engenharia Social",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Conscientização_sobre_Engenharia_Social.md"
+    },
+    {
+        "Nome": "Política de Criptografia de Dispositivos Móveis",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Criptografia_de_Dispositivos_Móveis.md"
+    },
+    {
+        "Nome": "Política de Descarte de Equipamentos de Tecnologia",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Descarte_de_Equipamentos_de_Tecnologia.md"
+    },
+    {
+        "Nome": "Política de Dispositivos de Comunicação Pessoal e Correio de Voz",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Dispositivos_de_Comunicação_Pessoal_e_Correio_de_Voz.md"
+    },
+    {
+        "Nome": "Política de Email",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Email.md"
+    },
+    {
+        "Nome": "Política de Encaminhamento Automático de E-mails",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Encaminhamento_Automático_de_E-mails.md"
+    },
+    {
+        "Nome": "Política de Equipamentos de Comunicação",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Equipamentos_de_Comunicação.md"
+    },
+    {
+        "Nome": "Política de Equipamentos de Internet na Zona Desmilitarizada (DMZ)",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Equipamentos_de_Internet_na_Zona_Desmilitarizada_(DMZ).md"
+    },
+    {
+        "Nome": "Política de Extranet",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Extranet.md"
+    },
+    {
+        "Nome": "Política de Ferramentas de Acesso Remoto",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Ferramentas_de_Acesso_Remoto.md"
+    },
+    {
+        "Nome": "Política de Instalação de Software",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Instalação_de_Software.md"
+    },
+    {
+        "Nome": "Política de Monitoramento e Filtragem do Uso da Internet pelos Funcionários",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Monitoramento_e_Filtragem_do_Uso_da_Internet_pelos_Funcionários.md"
+    },
+    {
+        "Nome": "Política de Mídias Removíveis",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Mídias_Removíveis.md"
+    },
+    {
+        "Nome": "Política de Planejamento de Resposta à Pandemias",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Planejamento_de_Resposta_à_Pandemias.md"
+    },
+    {
+        "Nome": "Política de Plano de Recuperação de Desastres",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Plano_de_Recuperação_de_Desastres.md"
+    },
+    {
+        "Nome": "Política de Plano de Resposta a Incidentes de Segurança",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Plano_de_Resposta_a_Incidentes_de_Segurança.md"
+    },
+    {
+        "Nome": "Política de Proteção contra Malware em Servidores",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Proteção_contra_Malware_em_Servidores.md"
+    },
+    {
+        "Nome": "Política de Proteção de Chaves de Criptografia para Usuários Finais",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Proteção_de_Chaves_de_Criptografia_para_Usuários_Finais.md"
+    },
+    {
+        "Nome": "Política de Proteção de Senhas",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Proteção_de_Senhas.md"
+    },
+    {
+        "Nome": "Política de Rede Virtual Privada (VPN)",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Rede_Virtual_Privada_(VPN).md"
+    },
+    {
+        "Nome": "Política de Requisitos Básicos para Bluetooth",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Requisitos_Básicos_para_Bluetooth.md"
+    },
+    {
+        "Nome": "Política de Responsabilidade de Dispositivos Móveis para Funcionários",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Responsabilidade_de_Dispositivos_Móveis_para_Funcionários.md"
+    },
+    {
+        "Nome": "Política de Resposta a Violações de Dados",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Resposta_a_Violações_de_Dados.md"
+    },
+    {
+        "Nome": "Política de Retenção de Emails",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Retenção_de_Emails.md"
+    },
+    {
+        "Nome": "Política de Segurança de Aplicações Web",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Segurança_de_Aplicações_Web.md"
+    },
+    {
+        "Nome": "Política de Segurança de Laboratórios na Zona Desmilitarizada (DMZ)",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Segurança_de_Laboratórios_na_Zona_Desmilitarizada_(DMZ).md"
+    },
+    {
+        "Nome": "Política de Segurança de Servidores",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Segurança_de_Servidores.md"
+    },
+    {
+        "Nome": "Política de Segurança para Laboratórios",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Segurança_para_Laboratórios.md"
+    },
+    {
+        "Nome": "Política de Segurança para Roteadores e Switches",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Segurança_para_Roteadores_e_Switches.md"
+    },
+    {
+        "Nome": "Política de Uso Aceitável",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Uso_Aceitável.md"
+    },
+    {
+        "Nome": "Política de Uso da Internet",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Uso_da_Internet.md"
+    },
+    {
+        "Nome": "Política de Ética",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Política_de_Ética.md"
+    },
+    {
+        "Nome": "Recuperação de Incidente de Propriedade Intelectual",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Recuperação_de_Incidente_de_Propriedade_Intelectual.md"
+    },
+    {
+        "Nome": "Recuperação de Incidentes de Segurança Cibernética",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Recuperação_de_Incidentes_de_Segurança_Cibernética.md"
+    },
+    {
+        "Nome": "Registro de Comunicação de Incidente de Propriedade Intelectual",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Registro_de_Comunicação_de_Incidente_de_Propriedade_Intelectual.md"
+    },
+    {
+        "Nome": "Registro de Comunicação de Incidentes de Segurança Cibernética",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Registro_de_Comunicação_de_Incidentes_de_Segurança_Cibernética.md"
+    },
+    {
+        "Nome": "Resumo de Resposta a Incidentes de Segurança Cibernética",
+        "Link": "https://raw.githubusercontent.com/GeorgeLimaDev/Documentos_traduzidos/main/Resumo_de_Resposta_a_Incidentes_de_Segurança_Cibernética.md"
+    }
+    
+]
